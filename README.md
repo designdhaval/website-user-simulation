@@ -2,9 +2,7 @@
 
 Claude visits your website as different kinds of people, uses it for real in Chrome, and tells you where they got stuck.
 
-I made this for my own portfolio. Claude played a recruiter with 60 seconds, a junior designer on a phone and a keyboard-only visitor, and it found five problems, including a mobile menu that wouldn't close.
-
-Watch the video: DesignLift on YouTube
+I built this to test my own portfolio before a recruiter did. Claude played a recruiter with 60 seconds, a junior designer on a phone and a keyboard-only visitor. It found five problems I had missed, including a mobile menu that wouldn't close on a phone.
 
 ## What it does
 - Acts as five visitors (change them to match your users)
@@ -20,8 +18,8 @@ Watch the video: DesignLift on YouTube
 
 It needs a browser tool, such as Claude in Chrome.
 
-## Be honest about what it is
+## What it is, and what it isn't
 It's a fast first pass. It finds the obvious friction before a recruiter or customer does. It doesn't replace testing with real people.
 
-## Credit
-Made by Dhaval Shah for DesignLift. Free to use and change.
+## Licence
+MIT. Free to use and change. Made by Dhaval Shah for DesignLift.
